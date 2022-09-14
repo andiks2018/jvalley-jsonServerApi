@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "note": "Ini catatan pertama",
+      "status": false
+    },
+    {
+      "id": 2,
+      "note": "Ini catatan kedua",
+      "status": true
+    },
+    {
+      "id": 3,
+      "note": "Ini catatan ketiga",
+      "status": false
+    },
+    {
+      "id": 4,
+      "note": "Ini catatan keempat",
+      "status": false
+    }
+  ]
+}
